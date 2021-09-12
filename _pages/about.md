@@ -4,8 +4,8 @@ title: About Me
 permalink: /about/
 ---
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+We are data scientists devoted to providing answers to important problems facing today's growing firms.
 
+I am a perpetual student of economics and finance.  Code and statistics help my quantify complex market fluctuations and help provide stability to my clients.
 
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+The goal is for you to find the information here helpful in your daily financial decision making.
