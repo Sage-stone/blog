@@ -1,1 +1,1 @@
-Sitemap: https://github.com/Sage-stone//blog/sitemap.xml
+Sitemap: https://sagestone.io/sitemap.xml
